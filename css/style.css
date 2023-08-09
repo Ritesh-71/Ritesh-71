@@ -75,7 +75,7 @@ nav a:hover{
     position: absolute;
     bottom: 0;
     right:0;
-    background-color: black;
+    background-color: rgb(96, 8, 179);
     color: white;
     width: 100%;
     padding: 10px 2px;
@@ -103,10 +103,19 @@ nav a:hover{
     flex-direction: row;
 }
 .yt.box{
-    background-color: azure;
     width: 50%;
 }
 .google-map{
-    background-color: blueviolet;
     width:50%;
+}
+footer{
+    background-color: black;
+    padding: 20px 0;
+}
+footer p{
+    text-align: center;
+    font-size: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+
 }
