@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritesh-71" alt="ritesh-71" /></a> </p>
 
-- 🔭 I’m currently working on **Wordpress**
+- 🔭 I’m currently working on :**Wordpress**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning :**Python**
 
-- 💬 Ask me about **my works**
+- 💬 Ask me about :**my works**
 
-- 📫 How to reach me **riteshkd71@gmail.com**
+- 📫 How to reach me :**riteshkd71@gmail.com**
 
-- ⚡ Fun fact **Pythonista by day, adventurer by night.**
+- ⚡ Fun fact :**Pythonista by day, adventurer by night.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
